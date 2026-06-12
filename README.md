@@ -121,8 +121,3 @@ CodeAlpha-EDA-Sales-Analysis/
 
 B.Tech – Computer Science and Engineering
 
----
-
-## Internship
-
-This project was completed as part of the **CodeAlpha Data Analytics Internship Program**.
