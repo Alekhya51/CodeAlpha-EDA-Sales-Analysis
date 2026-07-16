@@ -42,7 +42,6 @@ The dataset contains information related to:
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
